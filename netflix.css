@@ -74,6 +74,7 @@ nav .btn{
     border: 2px sloid whitesmoke;
     font-size: 1rem;
     padding-left: 15px;
+    color: white;
     background-color: rgb(38, 34, 34);
 }
 .input button{
